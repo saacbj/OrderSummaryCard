@@ -145,6 +145,9 @@ button {
 }
 
 @media (max-width: 375px) {
+  .body {
+    background-image: url("./images/pattern-background-mobile.svg");
+  }
   .order-summary {
     width: 90%;
     height: 75%;
